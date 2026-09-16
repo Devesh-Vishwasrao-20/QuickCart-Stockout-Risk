@@ -35,13 +35,3 @@ Target distribution: Safe 65.4% / At-Risk 24.0% / Imminent 10.6% — a realistic
 
 `days_of_cover_ratio` and `reorder_gap` were the strongest predictors — the two most direct numeric signals of a product about to run out.
 
-## Run it
-
-```bash
-pip install -r requirements.txt
-jupyter notebook QuickCart_Stockout_Risk.ipynb
-```
-
-## Author
-
-[Dvs](https://github.com/Devesh-Vishwasrao-20) — Data Science and Analytics, The Unlox Academy
